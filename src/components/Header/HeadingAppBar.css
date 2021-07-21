@@ -1,0 +1,14 @@
+.containerBar{
+   text-align: center;
+    clip-path: ellipse(53% 75% at 50% 25%);
+    padding: 1rem;
+    background-color: #045de9;
+background-image: linear-gradient(315deg, #045de9 0%, #09c6f9 74%);        
+}
+.containerBar a{
+    color: #20084e;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 900;
+}
+

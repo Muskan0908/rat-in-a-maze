@@ -1,0 +1,14 @@
+.containerFooter{
+   text-align: center;
+    clip-path: ellipse(54% 87% at 49% 93%);
+    padding: 1.2rem;
+    background-color: #045de9;
+background-image: linear-gradient(315deg, #045de9 0%, #09c6f9 74%);
+}
+.footer-text{
+    color: #20084e;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 500;
+}
+

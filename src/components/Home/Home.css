@@ -1,0 +1,32 @@
+
+#container-input{
+    background: #fff;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+#input{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+.buttonSubmit{
+    background-color: #F4A460;
+       padding: 1rem;
+       border-radius: 10px;
+       font-size: 1rem;
+       cursor: pointer;
+       border:none;
+}
+.buttonSubmit:hover{
+    box-shadow: '0 0 0 0.2rem rgba(0,123,255,.5)';
+    background-color: #f09240;
+    transform: scaleX(1.1);
+    transition: 0.3s all ease-in-out;
+}
+.text{
+    font-size: 20px;
+}
